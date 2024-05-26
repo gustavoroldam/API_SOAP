@@ -1,0 +1,7 @@
+C:\Users\Gustavo Roldam\Documents\Tópicos Avançados em Tecnologia\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\Numeros_Romanos\SOAP\WCFNumeros-Romanos\bin\WCFNumeros-Romanos.dll.config
+C:\Users\Gustavo Roldam\Documents\Tópicos Avançados em Tecnologia\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\Numeros_Romanos\SOAP\WCFNumeros-Romanos\bin\WCFNumeros-Romanos.dll
+C:\Users\Gustavo Roldam\Documents\Tópicos Avançados em Tecnologia\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\Numeros_Romanos\SOAP\WCFNumeros-Romanos\bin\WCFNumeros-Romanos.pdb
+C:\Users\Gustavo Roldam\Documents\Tópicos Avançados em Tecnologia\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\Numeros_Romanos\SOAP\WCFNumeros-Romanos\obj\Debug\WCFNumeros-Romanos.csproj.AssemblyReference.cache
+C:\Users\Gustavo Roldam\Documents\Tópicos Avançados em Tecnologia\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\Numeros_Romanos\SOAP\WCFNumeros-Romanos\obj\Debug\WCFNumeros-Romanos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Roldam\Documents\Tópicos Avançados em Tecnologia\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\Numeros_Romanos\SOAP\WCFNumeros-Romanos\obj\Debug\WCFNumeros-Romanos.dll
+C:\Users\Gustavo Roldam\Documents\Tópicos Avançados em Tecnologia\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\Numeros_Romanos\SOAP\WCFNumeros-Romanos\obj\Debug\WCFNumeros-Romanos.pdb

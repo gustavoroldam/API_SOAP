@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Numeros_Romanos\\SOAP\\WCFNumeros-Romanos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B28EE65-2EBC-42AF-A34B-6BD81DB02ECC}|WCFNumeros-Romanos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\numeros_romanos\\soap\\wcfnumeros-romanos\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B28EE65-2EBC-42AF-A34B-6BD81DB02ECC}|WCFNumeros-Romanos.csproj|solutionrelative:service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B28EE65-2EBC-42AF-A34B-6BD81DB02ECC}|WCFNumeros-Romanos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\numeros_romanos\\soap\\wcfnumeros-romanos\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B28EE65-2EBC-42AF-A34B-6BD81DB02ECC}|WCFNumeros-Romanos.csproj|solutionrelative:iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Numeros_Romanos\\SOAP\\WCFNumeros-Romanos\\IService1.cs",
+              "RelativeDocumentMoniker": "IService1.cs",
+              "ToolTip": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Numeros_Romanos\\SOAP\\WCFNumeros-Romanos\\IService1.cs",
+              "RelativeToolTip": "IService1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:28:42.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Numeros_Romanos\\SOAP\\WCFNumeros-Romanos\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "Service1.svc.cs",
+              "ToolTip": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Numeros_Romanos\\SOAP\\WCFNumeros-Romanos\\Service1.svc.cs",
+              "RelativeToolTip": "Service1.svc.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:26:54.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
