@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B9FDFD8-8D57-4B67-9D9F-DA96E8CDA85B}|ConsomeWCFRomanos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\numeros_romanos\\soap\\webservice_soap\\consomewcfromanos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1B9FDFD8-8D57-4B67-9D9F-DA96E8CDA85B}|ConsomeWCFRomanos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9FDFD8-8D57-4B67-9D9F-DA96E8CDA85B}|ConsomeWCFRomanos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\numeros_romanos\\soap\\webservice_soap\\consomewcfromanos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9FDFD8-8D57-4B67-9D9F-DA96E8CDA85B}|ConsomeWCFRomanos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Numeros_Romanos\\SOAP\\WebService_SOAP\\ConsomeWCFRomanos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Numeros_Romanos\\SOAP\\WebService_SOAP\\ConsomeWCFRomanos\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:11:13.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

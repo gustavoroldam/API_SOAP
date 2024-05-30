@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\produtos\\api\\webapiprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|solutionrelative:controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\produtos\\api\\webapiprodutos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|solutionrelative:contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\produtos\\api\\webapiprodutos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\produtos\\api\\webapiprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\produtos\\api\\webapiprodutos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\produtos\\api\\webapiprodutos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\produtos\\api\\webapiprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|solutionrelative:controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\produtos\\api\\webapiprodutos\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|solutionrelative:contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E259F5A-18F6-4A77-8B62-104867BDE0C5}|WEBAPIProdutos.csproj|c:\\users\\gustavo roldam\\documents\\t\u00F3picos avan\u00E7ados em tecnologia\\trabalho_pratico_1_semestre_gustavo_guilherme\\produtos\\api\\webapiprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,65 +42,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:52:24.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProdutosController.cs",
               "ToolTip": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "Controllers\\ProdutosController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEMAAAAaAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T18:22:24.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-26T18:11:12.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T18:11:12.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Contexto.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\Contexto.cs",
               "RelativeDocumentMoniker": "Contexto.cs",
               "ToolTip": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\Contexto.cs",
               "RelativeToolTip": "Contexto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T17:52:43.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T17:52:43.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T17:52:11.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\Produto.cs",
               "RelativeDocumentMoniker": "Produto.cs",
               "ToolTip": "C:\\Users\\Gustavo Roldam\\Documents\\T\u00F3picos Avan\u00E7ados em Tecnologia\\Trabalho_Pratico_1_Semestre_Gustavo_Guilherme\\Produtos\\API\\WEBAPIProdutos\\Produto.cs",
               "RelativeToolTip": "Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T17:49:20.831Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsomeWCFRomanos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77c5ad429712de6d046289a87df928b685da5926")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+190b4aa31f14e855bfd34fe8cf5689f0e43036ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsomeWCFRomanos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsomeWCFRomanos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
